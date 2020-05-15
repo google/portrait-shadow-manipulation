@@ -1,0 +1,2 @@
+/home/zhangxer77/code/cezhang/portraitshadow/input/006.png,/home/zhangxer77/code/cezhang/portraitshadow/input_mask_ind/006_0.png,/home/zhangxer77/code/cezhang/portraitshadow/silhouette/1162744.png,257,103,409,408
+/home/zhangxer77/code/cezhang/portraitshadow/input/008.png,/home/zhangxer77/code/cezhang/portraitshadow/input_mask_ind/008_0.png,/home/zhangxer77/code/cezhang/portraitshadow/silhouette/1349034.png,270,96,329,329
