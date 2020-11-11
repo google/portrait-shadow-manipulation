@@ -1,6 +1,8 @@
 ### Portrait Shadow Manipulation (SIGGRAPH 2020)
 
-<a href="https://people.eecs.berkeley.edu/~cecilia77/project-pages/portrait.html" target="_blank">Project Website</a>
+UC Berkeley, Google & Google Research 
+
+[Project Website](https://people.eecs.berkeley.edu/~cecilia77/project-pages/portrait.html)
 
 <hr>
 
@@ -99,11 +101,6 @@ For a quick demo of each synthesis step, we also provide a jupyter notebook (`fo
 
 ![ss_map](./demogif/ss_vary.gif)
 ![sv_map](./demogif/sv_blur.gif)
-
-
----
-### Symmetry
-To come
 
 ---
 ### Test
